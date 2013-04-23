@@ -2,20 +2,21 @@
 
 A [jQuery](http://jquery.com/) plugin for [Twitter Bootstrap](http://twitter.github.io/bootstrap/) which uses the first few sentances of html as a teaser and shows a "See more..." link to show all the html. 
 
-See it in action at `???`
+See it in action [here](http://bl.ocks.org/rmosolgo/raw/5446195/fd6ae7bb6cea59aba67473dc79221d3fc652ca83/).
+
 Gives a preview of paragraph contents and a link to see the rest of the paragraph.
 
 ## Usage
 
 ### Basic
 
-1. Include `bootstrap-teaser.js` in your page: 
+- Include `bootstrap-teaser.js` in your page: 
 
 ```HTML
 <script src='bootstrap-teaser.js'></script>
 ```
 
-2. Add `class="teaser"` to an element and the _first sentence_ will be used as a teaser and a _See more..._ link will be created for you.
+- Add `class="teaser"` to an element and the _first sentence_ will be used as a teaser and a _See more..._ link will be created for you.
 
 ### Settings
 
