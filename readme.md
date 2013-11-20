@@ -2,7 +2,7 @@
 
 A [jQuery](http://jquery.com/) plugin for [Twitter Bootstrap](http://twitter.github.io/bootstrap/) which uses the first few sentances of html as a teaser and shows a "See more..." link to show all the html. 
 
-See it in action [here](http://bl.ocks.org/rmosolgo/raw/5446195/fd6ae7bb6cea59aba67473dc79221d3fc652ca83/).
+See it in action [on Bl.ocks](http://bl.ocks.org/rmosolgo/raw/5446195/).
 
 Gives a preview of paragraph contents and a link to see the rest of the paragraph.
 
